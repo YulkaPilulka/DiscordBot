@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 
 
-TOKEN = 'NjcyMTMxNTkyMjM1NTE1OTQ1.XxfElA.I0BYyvEcxp0wthFz0Bt6TedAZCM' # token
+TOKEN = 'Token :p' # token
 
 POST_ID = 675680976617078784 # пост с которого получаются роли 
 CHANNEL_ID = 675425591058759734 # ID канала на который заходит человек
